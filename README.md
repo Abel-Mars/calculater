@@ -13,7 +13,7 @@
 * ’）‘前面不能是符号和’（‘，以及运算符，小数点（只能是数字）
 
 ## 引用：
-/*字符串出现次数*//
+/*字符串出现次数*/
 https://blog.csdn.net/itmyhome1990/article/details/50855668
 /*中转后*/
 https://blog.csdn.net/weixin_38437243/article/details/78013011
